@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "project": {
+    "catalog": "prod",
+    "initializedAt": "2026-08-11T13:19:56.238Z",
+    "merchantDisplayName": "RemoteKaro LLC",
+    "merchantId": "acct_1QNwtjKr3tT4d3TG",
+    "projectId": "project_61VCdYLZwiGaRLXpG16RXKr6CQSQI5B6VnsXAKQmG4kK",
+    "projectName": "focus5"
+  },
+  "providers": {
+    "revenuecat": {
+      "accountRequestId": "facctrq_61VCda8ndvGNTA4fk16RXKr6CQSQI5B6VnsXAKQmGLz6",
+      "configuration": {},
+      "linkedAt": "2026-08-11T13:21:50.936Z",
+      "providerId": "prvdr_61UvIBCNECigaYpha53zM",
+      "providerName": "RevenueCat",
+      "redirectUrl": null,
+      "requestedAt": "2026-08-11T13:21:50.936Z",
+      "status": "complete"
+    }
+  },
+  "resources": {
+    "revenuecat-app": {
+      "configuration": {},
+      "createdAt": "2026-08-11T13:35:06.818Z",
+      "lastRevealedAt": "2026-08-11T13:35:07.460Z",
+      "lastStatus": "complete",
+      "name": "revenuecat-app",
+      "providerId": "prvdr_61UvIBCNECigaYpha53zM",
+      "providerName": "RevenueCat",
+      "resourceId": "fres_61VCdmylulWR9Egkj16RXKr6CQSQI5B6VnsXAKQmGTVA",
+      "serviceId": "app"
+    }
+  }
+}
